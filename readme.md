@@ -1,4 +1,5 @@
 #Diurnalis
+*Coined as a translation for the Ancient Greek ἡμερούσιος ‎(hēmeroúsios, “daily”) from the roots diurnus ‎(“of or belonging to the day”) +‎ -ālis (suffix forming adjectives of relationship).*
 ##What is this about
 This is a small experiment to keep the notes I take at various conferences.
 I chose GitHub as platform to keep them available for everyone to improve (or read).
