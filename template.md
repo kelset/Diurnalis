@@ -1,10 +1,18 @@
-#Name of the conference
+#Name of the keynote
 ###Speaker:
-###Title:
-Test test
-######Sub1
-Test test 2
-######Sub2
-Test test 2
-######Sub3
-Test test 2
+###Date:
+###Conference event:
+
+Here I will copy&paste the synopsys of the keynote.
+
+######My Actual Notes
+
+Here I will write the notes I take during the talk.
+
+######The speaker bio
+
+As title, the speaker short bio. Or infos. Or whatever.
+
+######The conference description
+
+Small text about the conference.
