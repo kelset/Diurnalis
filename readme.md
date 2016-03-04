@@ -13,4 +13,5 @@ Every conference I'll add will have its own folder, and every keynote its .md fi
 At root level there is a small template I will use for each keynote: it has a lot of room for improvement, i'm still learning Markdown.
 
 -*Moreover*, I'm using [WriteMonkey](http://writemonkey.com/) to write these notes.
+
 -*I'm actually trying to use Visual Studio Code, which is still in beta but it is amazing*
