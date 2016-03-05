@@ -10,7 +10,26 @@ Small talk description (two or three statement) It happened, software ate the wo
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+He's not going to do a technical talk. And he started with the f word.
+
+He's like showing 5 slides per minute. HALP.
+
+The cloud doesn't exist: it's just another computer.
+
+Welcome to the "third-party risk" era.
+
+He's now listing 10 classic issues: (a lot of f words while speaking)
+
+    - 1 Immaturity
+    - 2 Visibility
+    - 3 Palatability
+    - 4 Confidentiality, Accountability, Privacy
+    - 5 (?) (damn he jumps fast)
+    - 6 Weak standards
+    - 7 Jurisdiction
+    - 8 Gov's appetite
+    - 9 Liability
+    - 10 Ownership
 
 ######The speaker bio
 

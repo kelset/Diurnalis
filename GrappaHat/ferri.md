@@ -7,7 +7,15 @@ A perfect marriage between Service Robotics and Cognitive Computing: Internet of
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+So, apparently IoT has a new dimension: TOYS.
+There have been already some cases of toys hacked (Barbie, etc), so apparently "smart toys" is still fresh and unprotected.
+
+An example of smart toy is [JIBO](https://www.indiegogo.com/projects/jibo-the-world-s-first-social-robot-for-the-home#/), and another is [VAI KAI](http://vaikai.com/).
+In the future probably these toys will be based on something Watson-like, meaning they'll be able to access some artificial intelligence. 
+
+This is actually a big deal, these are TOYS, made for KIDS. They should be protected, but even CE can't make enough.
+
+It's not only about having strict rules with the producer, it's also regarding parents: they must be aware of these sort of issues.
 
 ######The speaker bio
 

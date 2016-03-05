@@ -9,7 +9,8 @@ During the “European Privacy Day 2016”, in January 28th, we announce [launch
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Ok, he started in a kinda awkward way. Let's see how it will work out.
+Nope, it's more of a call to action than anything else.
 
 ######The speaker bio
 
