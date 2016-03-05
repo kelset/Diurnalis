@@ -10,7 +10,7 @@ Giving all of the above (wow!), during my talk I will tell you some tales which 
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Ok apparently we are not allowed to say anything about his talk. A pity, seems it's going to be fun.
 
 ######The speaker bio
 

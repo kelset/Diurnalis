@@ -7,7 +7,31 @@ This talk will focus on a real project for critical communication within an ANSP
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+No pictures allowed. Now you have my attention.
+
+ANSP = air navigation serice provider
+
+In 2009 is was dcided by the EUROCAE that the communication between ATM ground and AIR has to be VoIP.
+He had to work to make it possible, by creating a new archiitecture paradigm.
+
+To test new solutions they used a standard list of steps:
+    - choose radio
+To buy some, you have to go on their websites and read specs.
+
+    - RFI/RFP
+
+    - feedback to vendors
+Obviously talking with clients always create issus because of the different technical languages.
+
+    - pentest
+
+    - finalize architecture
+    
+"Network is secure, we don't need to secure the radio" - every vendor after they found 10 zero day.
+
+A pilot is talking now! Everyone is looking at him; and he's asking about hacking the actual airplane (sadly the speaker never worked on that part of the issue)
+
+
 
 ######The speaker bio
 

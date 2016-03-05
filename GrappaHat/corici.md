@@ -7,7 +7,11 @@ This presentation will showcase ctf365.com, the very first cloud-based Informati
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Information security is the land of $$$$ jobs. There is going to be a HUGE gap between demand and market.
+Gamification is one of the best solutions to learn, according to "studies".
+They built an internet without The Internet.
+
+...aaaand it's over.
 
 ######The speaker bio
 

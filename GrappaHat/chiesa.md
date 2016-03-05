@@ -7,7 +7,17 @@ TBA
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Time to talk about SCADA! (supervisory control and data acquisition)
+
+The main issue in the Transportation industry is that the ones which sells the items _Don't Give a S***_ about ICT Security.
+"Hackers + Airplanes: No good can come for this"
+
+Apparently at a presentation TSA showed their master keys, so in time 0 people were able to 3d print copies of those and open any TSA lock.
+
+And now he's showing so many exploits in airports... seriously, zero security everywhere.
+
+Even the basic security principles could have done a great job in airports, but apparently not easy enough.
+
 
 ######The speaker bio
 

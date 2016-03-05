@@ -1,4 +1,4 @@
-#’ve been authorized to speak about what I want
+#I’ve been authorized to speak about what I want
 ###Speaker: Cristiano “nofear” Cafferata (IT)
 ###Date: 05-03-2015
 ###Conference event: GrappaHat 2016
