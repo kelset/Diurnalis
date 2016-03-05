@@ -10,14 +10,14 @@ The Network Security monitoring (NSM) model was first introduced by Bamm Vissche
 Here we go!
 They do Security Awareness (comic).
 He'll focus on defense; right now it is mostly reactive (monitoring and then do something).
-Monitoring is basically "ok, let's get all these datas and collect them into groups (alert, statistical, session, full content)".
-But this monitoring starts by an analist looking at a screen! This can't be a good way to handle security: this way the person will focus on a single alert, restrincting the scope of the investigation to *that* one alert.
+Monitoring is basically "ok, let's get all these data and collect them into groups (alert, statistical, session, full content)".
+But this monitoring starts by an analyst looking at a screen! This can't be a good way to handle security: this way the person will focus on a single alert, restrincting the scope of the investigation to *that* one alert.
 This could be risky, I could not see the full picture of the attack I'm facing.
 
 Over the last 2 years there has been an evolution: we moved to a 4 step scenery with Prediction -> Protection -> Detection -> Reaction.
 Meaning, in pure Lao Tsu way, we start to study our enemies, and know how and what they are going to attack.
 Even if we have a dedicated staff for defensive security, we need to recognize that each member need to *achieve maturiy*: we tend to panic when facing a new thread.
-We have to consider the behevioural part of the people involed.
+We have to consider the behevioral part of the people involved.
 
 The paradigm seems to be: the best security is given but a large amount of skilled and experienced DIVERSIFIED staff, which use advanced/enterprise level tools.
 
@@ -59,11 +59,6 @@ At Silencsec they are wokring on this (see picture). -> they will release it on 
 ELK stack = Elasticsearch+LogStash+Kibana the triad for log management.
 
 * Passive Defense
--> 
-
-
-**
-HOW ABOUT DOCKER(?) (talking about canary)
 
 ######The speaker bio
 

@@ -12,7 +12,7 @@ Here I will write the notes I take during the talk.
 ######The speaker bio
 
 After the Hacking Team’s leak, it looks like the whole world just realized that mobile phones can be intercepted. Malware, spyware, key loggers…. there’s plenty of choices for the cybercriminals, your competitors, your wife, whoever.
-This presentation will provide a high-level view on the topic, with real life evidences, advices and suggestions, from our field experience in the Digital Forensics world.
+This presentation will provide a high-level view on the topic, with real life evidences, advises and suggestions, from our field experience in the Digital Forensics world.
 
 ######The conference description
 

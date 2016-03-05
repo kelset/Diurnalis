@@ -8,15 +8,15 @@ A story of moral turpitude and vagina dentata in the petroleum industry. From ho
 ######My Actual Notes
 
 The host started talking about this speaker saying "he's weird".
-"Kepp calm and play the long game"
+"Keep calm and play the long game"
 He works in the oil&gas industry... he started by showing us pictures of an oil extraction structure in open sea.
 One main point is that it is physically exploitable!
 And there is also the social engineering side, usually people working there have some sort of issue.
 Organized crimes can play the long game: even going into love life.
 It's all about the money in the end.
-He's using variations of the Keep Calm meme to give the rythm of the story he's telling.
+He's using variations of the Keep Calm meme to give the rhythm of the story he's telling.
 Classic xkcd picture.
-More narration... but not really much more to write: he's acting a good thriller story to raise awareness about exploitation this oli&gas platfroms.
+More narration... but not really much more to write: he's acting a good thriller story to raise awareness about exploitation this oil&gas platforms.
 
 20-30 years to fix this human/infrastructural issue.
 

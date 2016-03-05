@@ -9,10 +9,10 @@ This talk will focus on a real project for critical communication within an ANSP
 
 No pictures allowed. Now you have my attention.
 
-ANSP = air navigation serice provider
+ANSP = air navigation service provider
 
-In 2009 is was dcided by the EUROCAE that the communication between ATM ground and AIR has to be VoIP.
-He had to work to make it possible, by creating a new archiitecture paradigm.
+In 2009 is was decided by the EUROCAE that the communication between ATM ground and AIR has to be VoIP.
+He had to work to make it possible, by creating a new architecture paradigm.
 
 To test new solutions they used a standard list of steps:
     - choose radio
@@ -21,7 +21,7 @@ To buy some, you have to go on their websites and read specs.
     - RFI/RFP
 
     - feedback to vendors
-Obviously talking with clients always create issus because of the different technical languages.
+Obviously talking with clients always create issues because of the different technical languages.
 
     - pentest
 
