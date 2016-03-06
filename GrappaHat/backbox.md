@@ -1,5 +1,5 @@
 #Dancing in the dark
-###Speaker: Stephan 
+###Speaker: Stefan Umit Uygur 
 ###Date: 05-03-2015
 ###Conference event: GrappaHat 2016
 
