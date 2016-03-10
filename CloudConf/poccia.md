@@ -8,7 +8,37 @@ The resulting architecture is efficient and cost effective to run on AWS and man
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+From the first edition of CloudConf 4 years ago a lot changed: they are currently able to build single Functions in the Cloud.
+
+"Event-Driven" is nothing new, all the Front-End stuff is already event driven.
+
+But what about the Backend? Can we use this approach in it?
+
+Having Back End Logic can let multiple kind of devices connected to the server (Broswers, Mobile, IoT, etc). 
+And most of these interactions will be via API call.
+
+What if Functions are our only API? --> AWS Lambda!
+It can be done via Synchrounous Invocations.
+
+Functions can *Modify Resources*! And even the Resources can be attached to Functions (and so Event Driven).
+
+This can be quite useful when working with media files:
+3 levels: (see picture)
+
+How do you call Functions from the client? (Since he stated that Functions could be our API)
+Via the AWS api, or even your own (using classic HTTP verbs).
+
+And, of course, we are (are we?) working on Distributed solutions, so we need to React to the Changes in the Architecture.
+It is actually possible to preserve Functions Independency from architecture.
+
+(actual demo!)
+
+He uses Atom. _Y U NOT SUBLIME BRO?_
+
+You can even select the Environment for the Depolument for a Function as API. That's cool boys.
+SDK Generators! (mobile)
+
+OH GOSH HE'S USING OPENCV in a Function. That's huge!
 
 ######The speaker bio
 

@@ -83,6 +83,10 @@ Keep them clean and updated, and have deployment scripts.
 
 ('cause we know someday Skynet will take over)
 
+--Q&A time--
+
+If your team is at least 5-6 people you should start to consider automatic stuff.
+
 ######The speaker bio
 
 (Twitter)[https://twitter.com/svenpet]
