@@ -11,7 +11,7 @@ Benefits and compromises of this approach along with real world use cases will a
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+
 
 ######The speaker bio
 

@@ -3,7 +3,9 @@
 ###Date: 10-03-2016
 ###Conference event: CloudConf 2016
 
-Here I will copy&paste the synopsys of the keynote.
+The Elastic stack consisting of Elasticsearch, Logstash, Kibana and Beats offers easy-to-use components to ingest, parse, analyze and visualize your data.
+
+In this talk we will focus on the aspect of log files, and in addition to the already known capabilities of the ELK stack new features in Elasticsearch simplifying your logging life and the relatively new Beats and their respective implementations will be covered as well.
 
 ######My Actual Notes
 
