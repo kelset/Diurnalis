@@ -10,12 +10,45 @@ Really, there's never been a better time to be a developer!
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Conf after the coffee break. Which I spent talking to Poccia, such a nice guy.
+Asking question and finding the best answers is not that easy, but it's our job as developers to do so.
+
+The Google hardware infrastructure is probably its most valuable asset (people aside).
+That's why it's really important to have a reliable file system/architecture to avoid that hardware failures can disrupt a service.
+
+Since early 2000's Google worked on file systems and such, most recently is Kubernetes (and TensorFlow).
+
+Apps should anticipate users' needs! And the only way to do so is by analyzing data.
+
+At Google they call Big Data.... Data. 
+Such joke, much wow.
+
+Now we want to build clusters, over machines. Containers over computers. Moving from hardware issues to software.
+
+To do that Machine Learning is really a key feature, which is enabled in TensorFlow.
+-> Translate is an easy example of Machine Learning at Google.
+
+Google Cloud Vision API -> WYSIWYG
+It's an API able to return a JSON telling us what Google actually see in a picture we POST. (it can even recognize the dog race... wow)
+
+Ok he may have tried a bit too hard with the picture of the city palace, but the other pictures worked great.
+
+Ok, he's showing how great this API is, and let me tell you. It really is. Hooooly cow.
+
+There is also a free tier for Developers who wants to use its most advanced features.
+This API doesn't require you to be a Machine Learning expert, he's not and noone in his staff is. Google is doing all the heavy work.
+
+"Now fo and build something awesome!"
+(sure will)
+
+
+    -- Q&A --
+
+There are limits on images per second (24) and no video support for now.
 
 ######The speaker bio
 
-(Twitter)[https://twitter.com/spinscale]
-Software Engineer @ (Elastic)[https://www.elastic.co/] (Elasticsearch core dev team)
+
 
 ######The conference description
 
