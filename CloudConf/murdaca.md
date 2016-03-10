@@ -7,7 +7,8 @@ Behind docker run, we'll go through Docker's advanced features such as user name
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Some more Docker sweetness for ME :D
+
 
 ######The speaker bio
 

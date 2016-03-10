@@ -8,7 +8,19 @@ Moreover, Vagrant  also allows the user to fast deploy development environments 
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+The first one not using a mac for the talk. LibreOffice, actually.
+Vagrant = local and remote deploy automation tool.
+Everything inside Vagrant is a plugin.
+
+It uses Ruby, with the Fog gem (which even supports Aruba Cloud).
+
+And there is also a live demo you can download from GitHub at Arubacloud/vagrant-arubacloud
+
+Puppet is integrated in Vagrant, btw.
+
+So, basically, Vagrant is a Docker alternative working on Aruba.
+
+But usually it is a custom solution for microservices. Probably better for small scale projects.
 
 ######The speaker bio
 
