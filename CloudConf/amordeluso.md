@@ -8,7 +8,8 @@ In this session, we will discuss how constrained devices can send data to the cl
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+"Madrid Room"
+
 
 ######The speaker bio
 
