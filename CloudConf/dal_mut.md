@@ -7,10 +7,47 @@ The final rush to the perfect development. Connect your local development to clo
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Last pitch of the event!
+
+Starting with the Rocco's quote is the best opening ever.
+
+He started working with "the Cloud" in 2009.
+
+Focal points for a cloud:
+*Pay only for what you use
+*Everything is addressable with an API
+
+With Cloud Computing, with the pay for what you use paradigm, a lost of Startups were able to sustain costs.
+
+Serverless is a new step in this direction, making us pay *exactly* for what we use.
+
+The experience he made with autoscaling showed a NEW issue: how to manage/deploy these instanced?
+
+They switched to continuous development: they decided to use Fabric to deploy application artifacts.
+
+At this point, they were able to:
+- Deploy one instance at a time
+- Deploy concurrently to all of them
+
+NEW issue: how to deploy the current running version to new instances?
+
+But the deploy wasn't yet simple.
+
+So they moved to Jenkins to continuous deploy; its delivery flow was quite automagical. (the build was triggered on a git push, Jenkins is responsible ro tun the test suite, etc etc)
+
+Now Jenkins also works with Docker, and also with CircleCI, CodeShip, etc etc
+
+AWS CodeDeploy is truly interesting, thanks to the concept of deployment groups. (it uses an agent to orchestrate the deploy)
+
+(demo code of how to implement it)
+
+The most interesting part of CodeDeploy are the hooks, which are basically triggers to which methods can be linked. (ex. the application stops)
+
+Jenkins can also be integrated into the AWS CodePipeline. (for mor complex cases)
 
 ######The speaker bio
 
+walter.dalmut@corley.it
 (Twitter)[https://twitter.com/walterdalmut]
 Solution Architect @ (Corley Cloud)[https://www.corleycloud.com/]
 

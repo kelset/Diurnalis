@@ -11,7 +11,53 @@ Benefits and compromises of this approach along with real world use cases will a
 
 ######My Actual Notes
 
+First conf in Turin for him, nice!
+"Proud to be a developer"
 
+Data is managed differently today: relational DB have been the standard for 45 years... but now, it can't stand the chance with the Big Data flooding.
+
+He showed the map of data right now: https://451research.com/451-research-data-platform-map
+
+It's totally different from the kind of data the relational DBs can handle.
+
+*What's wrong with JOIN?*
+
+It' works. Isn't enough? 
+Not really.
+JOINs are HUGELY used in DBs: the bigger the DB, the worst are the performances.
+
+What about graph DBs?
+
+It is any storage system that provides _index-free adjacency_.
+
+In a graph we have Vertices connected by Edges. We can have multiple Edges connecting two Vertices.
+
+...but how does a true graph db manage relationships?
+
+Each element in the graph has its *own immutable Record ID*.
+
+Connections are stored has pointers.
+
+-> So a graph DB creates the relationship _just once_ when the element is created.
+
+In a Graph DB the traversiong time is not affected by the DB size!
+
+This allows for easy management of Complex Relationships.
+
+Soooo... waht's a Multi-Model DBMS?
+(picture)
+
+So, what's OrientDB? A Multi-Model DB which allows for polymorphic domain schema.
+
+In a "magical DMBS quadrant", Multi model is where relation complexity and data complexity meet.
+
+It's written in Java, and handles elements as JSON documents.
+
+(demo time)
+
+It is automatically able to scale up over multiple cores, and RAM usage too.
+
+Multiple ways of deployment.
 
 ######The speaker bio
 
