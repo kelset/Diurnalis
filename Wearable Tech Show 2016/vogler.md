@@ -4,10 +4,44 @@
 ###Conference event: The Wearable Technology Show 2016
 
 In this session our speakers will look at the future of the driverless connected car and the apps and services that make sense. Ultimately what does this mean for the understanding of cars as a product and for cars utilisation value?
-
+ 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+A driverless car is important for business if it is always connected, and has smart content.
+
+The Smart Car of the future will have:
+- Has its own IT infrasturcture (2016)
+- Is connected with the internet (2016)
+- Is connected with other smart hardware (2020)
+- Is self-driving (2020) 
+- Is autonomously operating (no need for parking sport) (20XX)
+
+Going on with more predictions:
+- Screen
+    The in-car screens will eexpand and will finally take center stage, ven replacing the steering wheel
+- Platform
+    It will develop from a pur edriving device to a service platform with driving functionalities
+- Yield On Services
+    THe revenues from srvices and utilization will add to or ven replac large parts of the sales revenues of the car
+- App Store
+    Needs an app store filled with useful apps for delivering added value for end user
+- Custom
+    It's a technological standard platform which can v individualized 
+- Adopt
+    It will happen as for smartphone, people won't belieb until they try it.
+
+A car will be more or less a peripheral device for your smartphone: and probably they'll share the same app store.
+
+So, these new cars will force a change of paradigm and perspective:
+* A car will be used as a smart advertising billboard
+* Tool for attracting customers to stores
+* Fully equipped working space on wheels
+* Platform for moving cargo by mouse click
+* Equipment for exepriecing driving pleasure
+* Mobile Louge for delivering srices
+
+They are still working on something on this change of paradigm... Metropolis.
+(see picture)
 
 ######The speaker bio
 

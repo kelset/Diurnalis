@@ -13,12 +13,26 @@ Takeaways:
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Missed the first part, wrong hall. W/E
+
+Biosyncing: sensors capture our parameters and *respond* to our current status.
+
+Some supporting technologies for this are Aritificial Intellignce, and Mixed Reality (VR where you have to NOT use controllers)
+
+They developed some products with these techs: see picture.
+
+At Pearson they are studying growing in and out of VR.
+
+*It's really about immersion*
+
+The more you are immersed into VR the more succesful education will be given.
+
+Successful biosyncing is determinated by how many decisions we don't take consciously.
 
 ######The speaker bio
 
 Denis Hurley, Director of Future Technologies, Pearson
- 
+
 ######The conference description
 
 The conference at The Wearable Technology Show is a unique opportunity to hear from some of the leading innovators in Wearables, Augmented Reality, VR, Smart Devices and IOT.

@@ -10,7 +10,33 @@
 
 ######My Actual Notes
 
-Here I will write the notes I take during the talk.
+Julie started talking about the urban transportation, and explaining how the demand is growing (more and more people need to move around).
+And then she presented some numbers of London. (see picture)
+
+But, if moving to "impacts", it is possible to see that "road injuries" is the 8th leading cause of death (and 50% of the dead are pedestrians and 2 wheelers)
+
+Something must be done to improve the infrastructure.
+
+We need to move to a vehicle 2x technology: it refers to an intelligent transport infrastructure.
+
+Full connectivity across all forms of devices (a case is shown in the picture).
+
+-> Connected vehicles create a safer environment/community: 35% fewer incidents.
+
+Siemens is currntly working with Jaguar to create a vehicle adaptable for this environment: see picture.
+
+---
+
+Now it's Copping's turn.
+
+He's talking about the "Gigabit City": see picture about the overall structure.
+In Greenwich they are currently trying to turn it into a digital city: there are 4 layers to consider in order to do it:
+- Human 
+- Transportation and Logistics
+- Information
+- Energy
+
+The core of his talk is about how to make the city "integrate" to the people's life.
 
 ######The speaker bio
 
