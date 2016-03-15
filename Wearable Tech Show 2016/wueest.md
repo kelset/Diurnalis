@@ -1,9 +1,12 @@
-#Name of the keynote
+#Security In The IOT Enabled Enterprise
 ###Speaker:
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+Our panellists will discuss common security and privacy mistakes made in most wearables and IoT devices. Examples include; how wearables can be tracked over BTLE, why fitness apps send passwords in clear text, how ransomware can lock out a smartwatch and how employee’s information can impact on the security system.
+_Key Take A Ways_
+-Security trends for IoT devices
+-Guidance for consumers and vendors to secure IoT devices
 
 ######My Actual Notes
 
@@ -11,8 +14,12 @@ Here I will write the notes I take during the talk.
 
 ######The speaker bio
 
-As title, the speaker short bio. Or infos. Or whatever.
+ Candid Wueest, Principal Threat Researcher, Symantec
 
+ Edward Forwood, CEO, WiFiThings
+
+ Dipak Raval, Commercial Director, Cambridge Consultants
+ 
 ######The conference description
 
 The conference at The Wearable Technology Show is a unique opportunity to hear from some of the leading innovators in Wearables, Augmented Reality, VR, Smart Devices and IOT.

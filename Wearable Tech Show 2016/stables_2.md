@@ -1,9 +1,9 @@
-#Name of the keynote
-###Speaker:
+#Wearables 2.0 – New Opportunities
+###Speaker: James Stables
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+What are the innovations and ideas that will drive wearable technology adoption beyond 2020? Our panel looks at how new technologies will power wearables into the next decade.
 
 ######My Actual Notes
 
@@ -11,8 +11,18 @@ Here I will write the notes I take during the talk.
 
 ######The speaker bio
 
-As title, the speaker short bio. Or infos. Or whatever.
+Moderator:
+ James Stables, Journalist, Wareable
 
+Panellists:
+ Corey Rosemond, Worldwide Business Development Director, Plantronics
+
+ Mark Bernstein, CEO, Wearable Technologies
+
+ Craige Palmer, General Sales Manager, Hamamatsu Photonics
+
+ Burkhard Duemler, Director IT Innovation Program & Projects, Adidas
+ 
 ######The conference description
 
 The conference at The Wearable Technology Show is a unique opportunity to hear from some of the leading innovators in Wearables, Augmented Reality, VR, Smart Devices and IOT.

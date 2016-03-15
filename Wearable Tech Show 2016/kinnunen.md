@@ -1,9 +1,9 @@
-#Name of the keynote
-###Speaker:
+#How to Make Data Meaningful - Re-defining Wearable Technology
+###Speaker: Hannu Kinnunen
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+In this Keynote, Hannu Kinnunen will introduce ŌURA and discuss how miniaturized body measurement technology in the form of a ring can be used to improve sleep and optimize performance. An expert in the field of heart rate based biosignal processing and actigraphy, Hannu will share his insights on why understanding your sleep, activity and readiness, and shifting focus towards a holistic view on the choices we make in our daily lives is key to improving performance and overall wellbeing.
 
 ######My Actual Notes
 
@@ -11,7 +11,7 @@ Here I will write the notes I take during the talk.
 
 ######The speaker bio
 
-As title, the speaker short bio. Or infos. Or whatever.
+Hannu Kinnunen, Chief Scientific Officer , OURA
 
 ######The conference description
 

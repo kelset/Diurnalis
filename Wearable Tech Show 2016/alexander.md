@@ -1,9 +1,12 @@
-#Name of the keynote
-###Speaker:
+#Smart Cities of the Future – Case Studies
+###Speaker: Julie Alexander
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+-How can Information Technology support people in the future?
+-What are the design goals of the future?
+-How can we realize an integrated and ‘Humane’ City?
+-Delivering Digital Infrastructure
 
 ######My Actual Notes
 
@@ -11,7 +14,9 @@ Here I will write the notes I take during the talk.
 
 ######The speaker bio
 
-As title, the speaker short bio. Or infos. Or whatever.
+ Julie Alexander, Director Urban Development, Siemens
+
+ Paul Copping, Smart Cities Advisor, Digital Greenwich Team, Royal Borough of Greenwich
 
 ######The conference description
 

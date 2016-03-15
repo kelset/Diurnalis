@@ -1,9 +1,9 @@
-#Name of the keynote
-###Speaker:
+#Wearable Technology Awards Presentation
+###Speaker: John Weir, COO, WTS
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+We present the winners in the coveted Wearables Awards for 2016. Categories include: Best App, Best Consumer Product, Best AR Company, Best Medical, Best Innovation, Best Start Up, Crunchwear Editor’s Award, Overall Wearable Winner
 
 ######My Actual Notes
 
