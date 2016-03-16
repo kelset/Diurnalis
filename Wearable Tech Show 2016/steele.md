@@ -1,5 +1,5 @@
 #Making a Connected Home a Reality
-###Speaker: Philip Steele
+###Speaker: Philip Steele & Jon Carter & Oliver Tadd & Kris Hogg
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
@@ -20,7 +20,7 @@ There is a difference between a connected house and a smart house. This is defin
 Every country is so different it is a really complex chain!
 
 Security is a way into this market.
-Projection is 12% of adption in EU.
+Projection is 12% of adoption in EU.
 
 Are there any standards ways of interaction with a smart house? Probably gestures.
 
@@ -28,7 +28,7 @@ Bandwidth is going to be a bottleneck for future smart houses, we'll have so man
 
 The interesting thing is the Amazon Echo: it's easy to use! And it works on the IP backbone.
 
-The fight will be on creating the echosystem (like the Sony TV connected to the Playstation Network, Steam home, etc)
+The fight will be on creating the ecosystem (like the Sony TV connected to the Playstation Network, Steam home, etc)
 
 Do wearables helps in creating a smart home?
 It's a new way of interacting with it.
@@ -54,7 +54,7 @@ People want simple tactile infrastructures. One ring to control them all (one ap
 
 *_Alexa is being put in 4 General Motors cars!!!_*
 
-Speed and confort will move the market.
+Speed and comfort will move the market.
 
 ######The speaker bio
 

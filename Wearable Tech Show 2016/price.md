@@ -14,20 +14,21 @@ He's going to do most of his presentation in VR!
 
 Difference between social and sociable networks: (also Palmer thinks it)
 - The first is asynch
-- The first is very isolating -> it leads to digital narcisism
+- The first is very isolating -> it leads to digital narcissism
 
 How a sociable network is done? In VR, it allows to create a scene/ambient/environment where people can gather.
 
-They can make people feel how they want by using tricks.... that's a bit creepy.
+They can make people feel how they want by using tricks.... *that's a bit creepy*.
+
 It's all about *presence*: convince people they are actually there (ex. being at south pole? then you should see your breath).
 
 VR is an enabling technology to make people do what they have always done, talking.
 
-VR is not all about gaming.
+*"VR is not all about gaming"*
 
 Mobile will be the entry point for consumers.
 
-vTime will always be free with premium features; it's already working on GearVR and Google Cardboard.
+**vTime** will always be free with premium features; it's already working on GearVR and Google Cardboard.
 
 ######The speaker bio
 

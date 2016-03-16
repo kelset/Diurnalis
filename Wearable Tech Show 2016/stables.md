@@ -11,12 +11,10 @@ We are still trying to scratch the surface in Wearable. We are going to see a bi
 
 They don't see apparently much innovation in the consumer world because it's more focuses on design.
 
-They are seeing a merging of the consumer wearable into the enterprise, mainly in welness. At Salesfoce they use those to gamify the welness of the employes (they make offices challenge at sports).
+They are seeing a merging of the consumer wearable into the enterprise, mainly in wellness. At Salesfoce they use those to gamify the wellness of the employes (they make offices challenge at sports).
 
-Will company encourage welness?
-In US Saleforces is going deep into this, they also try to keep them healthy, giving bonuses to not-smoking people and such.
-
-(How about UK?)
+Will company encourage wellness?
+In US Saleforces is going deep into this, they also try to keep them healthy, giving bonuses to not-smoking people and such.*(How about UK?)*
 
 Anyway, Wearable is moving from product to service: even assurance companies may start to use this sort of wearable.
 
@@ -24,13 +22,13 @@ Wearable may be even used to signal emergencies: like, a band that when giving a
 
 Which form factor will prevail?
 
-IBM-> Gloves, Hands-free, AR, Wrist as a way of presenting information
+IBM -> Gloves, Hands-free, AR, Wrist as a way of presenting information
 
 Kinneir -> something not relying on display (distraction free devices)
 
-Salesforce -> In the enterprise equipment (safety helmet, safety googles), hearpieces for elder people (Apple is going to release something BIG in headsets, that's why the bought Beats)
+Salesforce -> In the enterprise equipment (safety helmet, safety googles), earpieces for elder people (Apple is going to release something BIG in headsets, that's why the bought Beats)
 
-Maybe, as interaction vector, voice (Siri-lik) is going to be killer feature. But it needs to be a human interaction, not an answer machine.
+Maybe, as interaction vector, voice (Siri-like) is going to be killer feature. But it needs to be a human interaction, not an answer machine.
 
 The glass form factor, even being something a lot of people wears, has been a failure. Why.
 
@@ -48,9 +46,9 @@ Saleforces -> it's all about context. The human is going to be the vector of the
 ######The speaker bio
 
 Moderator:
- James Stables, Journalist, Wareable
+ James Stables, Journalist
 
-Panellists:
+Panelists:
  Martin Gale, CTO, IBM
 
  Peter Fullagar, Head of Innovation, Kinneir Dufort

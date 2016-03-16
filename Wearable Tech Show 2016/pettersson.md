@@ -10,28 +10,33 @@ When designing for the Internet of Things, it’s vital to understand the benefi
 
 He started with a panoramic over the Wireless technologies (see picture), and he's now moved to Network Topology.
 
+*pic1*
+
 Different networks for different needs: see picture.
 
-One main difference is when having to handle a propertary technology, which has some pros and cons.
+*pic2*
+
+One main difference is when having to handle a proprietary technology, which has some pros and cons.
 Surely those will give you a homogenous network, which brings in only the devices you will actually want inside.
 
 But those won't be able to communicate with standard protocols.
 
-In IoT applications the exesting protocols are a mix of IP and non-IP stacks.
-There are a alot of innovation surrounding these IP based solutions, like the one they are showing, Threat (a new protocol).
+In IoT applications the existing protocols are a mix of IP and non-IP stacks.
+There is a lot of innovation surrounding these IP based solutions, like the one they are showing, Threat (a new protocol).
 
-In Sub GHz world most of the technologies are propertary, then there's Bluetooth and BT Smart (which corrects the power consumpotion issue).
+In Sub GHz world most of the technologies are proprietary, then there's Bluetooth and BT Smart (which corrects the power consumption issue).
 
 But these low-range technologies are not usable in a Smart Home situation (I don't want to bring around my cellphone just to turn on/off the lights).
 
 Wi-Fi is the most widely used protocol, and it is considered "easy to use" by consumers.
 
-ZigBee (see picture)
-and 
- 
-*Thread*: in the automation world this is the coolest thing ever. It is a secure wirleess mesh networking protocol.
+**ZigBee** (see picture)
+
+*pic3*
+
+**Thread**: in the automation world this is the coolest thing ever. It is a secure wireless mesh networking protocol.
 It is build on standards: 6LoWPAN / 802.15.4 radios.
-It is reliable (self healing netowkrs, with no single point of failure) and secure (uses banking class encryption); and it is also simple (simple yet secure commissioning of new nodes to a network).
+It is reliable (self healing networks, with no single point of failure) and secure (uses banking class encryption); and it is also simple (simple yet secure commissioning of new nodes to a network).
 
 (see picture for layering of Thread)
 
@@ -47,7 +52,7 @@ Multiradio products are needed, but the multiprotocol is still up to the single 
 In the future we'll see products able to switch radio protocol right away.
 
 So:
-- One size does NOT fit all
+- One size does **NOT** fit all
 - Understand technology choice
 - Multiple protocols capable radios provide the greatest flexibility
 

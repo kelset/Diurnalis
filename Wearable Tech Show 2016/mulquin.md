@@ -13,20 +13,22 @@ How can these infrastructures be managed to exploit the potential synergies and 
 This man is pure hype.
 Every bit of the city needs to be smarter to create a proper Smart City. (see picture)
 
+*pic1*
+
 The interesting part is that these services are *complicated*, because humans are involved.
 
-So these services must be "infinitely customisable"... becaus of this, 
+So these services must be "infinitely customisable"... because of this:
 - many public sector IoT applications are niche
 - not always easy to penetrate new markets globally
 - not always easy for cities to use products developed for cities in other countries
 
 Therefore products are mainly consumer focused.
 
-On the other hand, smart *infrastructures* are simple: their role is simply to get "things" from where they are to where they need to be in the city as quickly and efficiently as possible.
+On the other hand, **smart infrastructures** are simple: their role is simply to get "things" from where they are to where they need to be in the city as quickly and efficiently as possible.
 
 The requirements are simple too:
 - to ensure that the networks are functioning efficiently - no leaks or blockages
-- to identify and localize properly
+- to identify and localize properly where the issues are. (*not sure about this one, he was talking too fast*)
 
 And IoT are quite good at this.
 
@@ -43,16 +45,29 @@ That's where data can help making much better decisions about the "system of sys
 
 Another big topic, is how risk should be handled, and mitigated. So as we start to make infrastructures smart, we need to ensur that the risks of negative impacts are not so severe as to undermine the business.
 
-He's now showing some examples, one from NY (see picture), another from San Francisco (see picture), Minneapolis (see picture).
+He's now showing some examples, one from NY (see picture)
+
+*pic1*
+
+Another from San Francisco (see picture)
+
+*pic2*
+
+Minneapolis (see picture).
+
+*pic3*
+
 Two more examples (see pictures) Milwaukee and Santa Clara.
+
+*pic4*
+
+*pic5*
 
 These IoT applications can be used anywhere! That's huge!
 
 ######The speaker bio
 
-Michael Mulquin, Owner, City Building Blocks
-
-michael@citybuildingblocks.com
+[Michael Mulquin](michael@citybuildingblocks.com), Owner, City Building Blocks
 
 ######The conference description
 

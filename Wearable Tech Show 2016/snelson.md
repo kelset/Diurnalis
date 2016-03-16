@@ -1,5 +1,5 @@
 #Smart Cities – Creating Intelligent Transport Systems
-###Speaker: Geoff Snelson
+###Speaker: Geoff Snelson & Christos Voudouris
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
