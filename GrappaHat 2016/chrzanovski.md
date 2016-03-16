@@ -3,21 +3,28 @@
 ###Date: 05-03-2015
 ###Conference event: GrappaHat 2016
 
-TBA
-
 ######My Actual Notes
 
-(arrived a bit late... thanks snow)
-You have more chances to have fake friends in LinkedIn than on Facebook.. and more over since it is considered a safe/professional environment people *talk* way too much.
+*(arrived a bit late... thanks snow)*
+
+You have **more** chances to have fake friends in LinkedIn than on Facebook.. and, moreover, since it is considered a safe/professional environment people *talk* way too much.
+
 In a way, being the security guy and being an archeologist is similar, mostly regarding how you have to approach the work, which set of government rules you have to follow etc etc.
+
 Lately even universities are focusing on "Cyber War": the thing is that many things changed but not the scope or how to do it (social engineering).
+
 So we should not focus on data analysis and such, but on psychology! Since humans are still the fragile part of an attack, we should work on that.
+
 In Courmayeur there is a key point of the electric power coming to Italy from France, if we could shut that one down there would be a massive power outrage in all Italy.
+
 Aosta has quite the story: the emperor decided to send here (to keep the local tribes chill) only the "old" Pretorians.
 
-TL,DR: We have some big issues with the actual CEOs since they know nothing, or they underestimate cybersecurity.
+**TL,DR**: We have some big issues with the actual CEOs since they know nothing, or they underestimate cybersecurity.
+
 In the next 20 years the things will get better, but still... we have to get through 19.9 year.
-THe big flaw now is about Privacy and proper usage of technology; apparently one of the main ways to address could be to have high fines. 
+
+The big flaw now is about Privacy and proper usage of technology; apparently one of the main ways to address could be to have high fines. 
+
 The thing is that in USA there is something like that, in EU not: and this also have a problem here, because having a "global" rule about this would basically means that EU would inject an USA law.
 
 

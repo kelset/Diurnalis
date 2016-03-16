@@ -16,4 +16,4 @@ Currently I try to understand how __Ruby on Rails__, __Docker__ and __NodeJs__ w
 Every conference I'll add will have its own folder, and every talk its .md file.
 At root level there is a small template I will use for each keynote: it has a lot of room for improvement, I'm still learning Markdown.
 
-*Moreover*, I'm using [Visual Studio Code](https://code.visualstudio.com/), which is still in beta but it is amazing*
+*Moreover*, I'm using [Visual Studio Code](https://code.visualstudio.com/), which is still in beta but it is *amazing*.
