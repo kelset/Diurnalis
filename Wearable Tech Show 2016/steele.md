@@ -1,9 +1,9 @@
 #Making a Connected Home a Reality
-###Speaker:
+###Speaker: Philip Steele
 ###Date: 15-03-2016
 ###Conference event: The Wearable Technology Show 2016
 
-Here I will copy&paste the synopsys of the keynote.
+Smart technology allows billions of devices to create the Internet of Things. This session explores how wearables work in tandem with smart objects to help manage and improve your life. What are the options for home control and how does wearable technology work alongside these devices?
 
 ######My Actual Notes
 
@@ -15,7 +15,7 @@ There is a difference between a connected house and a smart house. This is defin
 3 things are going to happen:
 -> The IoT that won't work as we expected 
 -> Assisted living (elder people) (hand to hand with assurance companies)
--> 
+-> *????*
 
 Every country is so different it is a really complex chain!
 
@@ -58,8 +58,14 @@ Speed and confort will move the market.
 
 ######The speaker bio
 
-As title, the speaker short bio. Or infos. Or whatever.
+Philip Steele, Founder, nCube
 
+Jon Carter, Head of Business Development, Deutsche Telekom
+
+Oliver Tadd, Commercial Director, Energenie
+
+Kris Hogg, Founder & Director, Konnectiv
+ 
 ######The conference description
 
 The conference at The Wearable Technology Show is a unique opportunity to hear from some of the leading innovators in Wearables, Augmented Reality, VR, Smart Devices and IOT.
