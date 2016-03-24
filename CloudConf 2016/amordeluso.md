@@ -69,7 +69,9 @@ Best IoT he ever heard about: connected _floors_.
 
 ### The speaker bio
 
-[Twitter](https://twitter.com/maxamorde) Head of Solution Architecture (EU) @ [Amazon Web Services](https://aws.amazon.com/it/)
+[Twitter](https://twitter.com/maxamorde)
+
+Head of Solution Architecture (EU) @ [Amazon Web Services](https://aws.amazon.com/it/)
 
 ### The conference description
 

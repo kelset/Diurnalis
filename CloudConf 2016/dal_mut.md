@@ -52,7 +52,11 @@ Jenkins can also be integrated into the AWS CodePipeline. (for more complex case
 
 ### The speaker bio
 
-walter.dalmut@corley.it  [Twitter](https://twitter.com/walterdalmut) Solution Architect @ [Corley Cloud](https://www.corleycloud.com/)
+walter.dalmut@corley.it  
+
+[Twitter](https://twitter.com/walterdalmut)
+
+Solution Architect @ [Corley Cloud](https://www.corleycloud.com/)
 
 ### The conference description
 
