@@ -14,7 +14,7 @@ Connecting physical devices to the cloud can enhance the user experience. AWS Io
 
 Amazon AWS IoT: how to get started in the new trend around, Internet of Things.
 
-_"It is cool again to play with hardware."_
+**"It is cool again to play with hardware."**
 
 Why is there so much interest in IoT? Because Smarter Products gets better over time. An example? Sonos.
 
@@ -34,16 +34,18 @@ Basically, there is a gateway at the patient's house which communicate with ever
 
 **"The product is now the interface."**
 
-One example of this is _Amazon Echo_, where communication happens _naturally_: (you speak with it, no need to touch) People actually thank the device. (and btw it's only a good speaker, everything else is in the Cloud)
+One example of this is **Amazon Echo**, where communication happens _naturally_: you speak with it, no need to touch.
 
-The Echo works on a AVS (Alexa Voice Service) on which we can develop via its SDK (there's a contest for whole March!).
+People actually thank the device. (and btw it's only a good speaker, everything else is back in the Cloud)
+
+The Echo works on a **AVS (Alexa Voice Service)** on which we can develop via its SDK (there's a contest for whole March!).
 
 But still, we have issues...
 
-- Devices are Hard to Connect, Manage
+- Devices are hard to connect, manage
 - Things do not interoperates out of the box
-- Low signal to noise Ratio in collected data
-- Applications and THings do NOT always match (in the way they speak) -> M2M (machine to machinee, telemetry) // Applications (Web and RESTful)
+- Low Signal to Noise ratio in collected data
+- Applications and things do **NOT** always match (in the way they speak) -> M2M (machine to machine, telemetry) // Applications (Web and RESTful)
 
 Veniam (a company) is trying to bring the cloud into moving objects.
 
@@ -63,13 +65,11 @@ This AWS IoT is by default "secure":
 
 Remeber: any advice can be connected to something else.
 
--- Q&A --
-
-Best IoT: connected Floor.
+Best IoT he ever heard about: connected _floors_.
 
 ### The speaker bio
 
-(Twitter)[<https://twitter.com/maxamorde>] Head of Solution Architecture (EU) @ (Amazon Web Services)[<https://aws.amazon.com/it/>]
+[Twitter](https://twitter.com/maxamorde) Head of Solution Architecture (EU) @ [Amazon Web Services](https://aws.amazon.com/it/)
 
 ### The conference description
 
