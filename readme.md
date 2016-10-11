@@ -8,12 +8,6 @@ This is a small experiment to keep the notes I take during the various conferenc
 
 I chose GitHub as platform to keep them available for everyone to improve (or read).
 
-## Who am I
-
-I am the classic software developer ;)
-
-Currently I try to understand how **Ruby on Rails**, **Docker** and **NodeJs** work. And **AWS** too (yeah, all of it). (Wanna know more? Later this year I'll release a proper website, don't worry - in the meantime, you can find me on LinkedIn)
-
 ## The structure of this experiment
 
 Every conference I'll add will have its own folder, and every talk its .md file. At root level there is a small template I will use for each keynote: it has a lot of room for improvement (still learning Markdown).
